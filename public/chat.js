@@ -1,5 +1,5 @@
 // Make connection
-var socket = io.connect('http://localhost:4000');
+var socket = io.connect('https://danpalmatrabajo04.herokuapp.com/');
 
 //Query DOM
 
